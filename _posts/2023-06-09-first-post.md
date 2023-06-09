@@ -26,7 +26,7 @@ Afterward, for three days I worked on it for a limited time every day. During th
 As a result of this today I have deleted the site repository and created a new one using this guide https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html as a base. 
 
 
-# Learning The Basics
+## Learning The Basics
 
 Tuesday-Wednesday-Thursday. On these three days, I started by learning the basic knowledge that I needed for the project. By using community guides and mainly ChatGPT I learned the necessary theoretical knowledge to start 
 as well as basic Linux command line through this tutorial: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
