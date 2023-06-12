@@ -6,4 +6,4 @@ author:
 description: "Blog of a college student about his internship"
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: garibo684/minima_test
