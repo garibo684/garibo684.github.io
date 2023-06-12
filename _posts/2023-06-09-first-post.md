@@ -67,12 +67,10 @@ planning to code simple C++ projects in Google C++ style to both solidify my
 newly learned knowledge and rebuild my forgotten knowledge of C++.
 
 [guide-gh-pg]: https://docs.github.com/en/pages/quickstart
-[jekyll-pg]:
-    https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+[jekyll-pg]:https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
 [jekyll-site]: https://jekyllthemes.io/free
 [contrast-gh]: https://github.com/niklasbuschmann/contrast
 [guide-site]: https://evanwill.github.io/go-go-ghpages-b/content/3-blog.html 
-[guide-linux]:
-    https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+[guide-linux]:https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [guide.gc++]: https://google.github.io/styleguide/cppguide.html
 [guide-gtest]: http://google.github.io/googletest/primer.html
