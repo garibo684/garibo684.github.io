@@ -13,8 +13,7 @@ early to prepare my computer for tomorrow's work. When I got home, I dual-booted
 my laptop with Ubuntu 22.04.2. Downloaded necessary programs like Microsoft
 Teams for communication and Visual Studio Code for coding. 
 
-With this the first
-day of my internship was over.
+With this the firstday of my internship was over.
 
 
 ## Creating A Website with GitHub Pages
@@ -25,9 +24,7 @@ Afterward, I selected a Jekyll theme from the [Jekyll Themes site][jekyll-site].
 The theme I selected was [Contrast][contrast-gh]. I selected this theme because
 I wanted a simplistic theme that I could work on over time and regularly
 improve. To understand each file's effect on the site I have copied 
-
-each file
-individually. This took almost an hour.
+each file individually. This took almost an hour.
 		
 Afterward, for three days I worked on it for a limited time every day. During
 those days I couldn't even manage to change the site's background color. As a
@@ -40,9 +37,9 @@ using [this guide][guide-site] as a base.
 Tuesday-Wednesday-Thursday. On these three days, I started by learning the basic
 knowledge that I needed for the project. 
 
-By using community guides and mainly
-ChatGPT I learned the necessary theoretical knowledge to start as well as basic
-Linux command line through [this tutorial][guide-linux]. 
+By using community guides and mainlyChatGPT I learned the necessary
+theoretical knowledge to start as well as basicLinux command line
+through [this tutorial][guide-linux]. 
 
 
 ## Google C++ Style Coding and GTest
@@ -50,9 +47,7 @@ Linux command line through [this tutorial][guide-linux].
 Throughout the week I read the official [guide for Google C++ Coding
 Style][guide.gc++]. During this read, on numerous occasions, I noticed that I
 lost my former expertise in C++ language as well as my previous knowledge. After
-realizing this problem I revised some of my former C++ course 
-
-notes. 
+realizing this problem I revised some of my former C++ course notes. 
 
 Today after completing the Google C++ Style guide I started and completed
 reading the [GoogleTest Primer guide][guide-gtest] for a beginner-level
@@ -64,9 +59,7 @@ formats.
 
 During this week I also looked at some guide videos on Youtube for both Conan
 and CMake but gave priority to the topics that I talked about before. From these
-guides, I learned how to use CMake and Conan on a basic 
-
-level but I have not
+guides, I learned how to use CMake and Conan on a basic level but I have not
 completed these guides yet.
 
 
