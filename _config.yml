@@ -7,3 +7,8 @@ description: "Blog of a college student about his internship"
 
 # Build settings
 remote_theme: jekyll/minima
+
+minima: 
+  skin: auto
+  social_links: 
+     - { platform: github,  user_url: "https://github.com/garibo684" }
