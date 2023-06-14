@@ -12,3 +12,8 @@ minima:
   skin: auto
   social_links: 
      - { platform: github,  user_url: "https://github.com/garibo684" }
+
+url: "http://garibo684.github.io"
+
+disqus:
+  shortname: garibo684
