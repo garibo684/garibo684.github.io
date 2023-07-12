@@ -82,9 +82,9 @@ argument. It changes the next pointer of the node that new node is after the
 new_node as well as the prev pointer of the node that is after the new node.
 
 #### Delete
-  This function removes the tail node from the list and assigns the previous node
-as the new tail. It does this by changing the next pointer for one before the
-tail to nullptr and assigning it as the new tail.
+  This function removes the head node from the list and assigns the next node
+as the new head. It does this by assigning it as the new head and changing the 
+prev pointer for the new head to nullptr.
 
 #### Clear
   If the list is not empty this function deletes every node one by one from head
@@ -100,12 +100,14 @@ tail to nullptr and assigning it as the new tail.
 concurrent running threads" it does not include any thread synchronization
 mechanisms, such as locks or mutexes, to ensure thread safety.
   
-  Big O notations for the functions except for the Clear functions is O(1). This
-is because these functions perform a constant number of operations regardless of
-the list's size. The Clear function on the other hand deletes each node in the
-list by traversing the list from the head to the tail. Deleting each node takes
-O(1) time, and since it needs to delete all the nodes, the overall time
-complexity is O(n), where n is the number of nodes in the list.
+  Big O notations for the functions except for the Clear and GetPosition functions 
+is O(1). This is because these functions perform a constant number of operations 
+regardless of the list's size. The Clear function on the other hand deletes each 
+node in the list by traversing the list from the head to the tail. Deleting each 
+node takes O(1) time, and since it needs to delete all the nodes, the overall time
+complexity is O(n), where n is the number of nodes in the list. For the GetPosition
+function, it is the same except for the n. In this function, n is the number of nodes
+until the function arrives at the given value's position.
 
 ## Testing
   As a part of the test-driven development, I have tested my code using GTest.
