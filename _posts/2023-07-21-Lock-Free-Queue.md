@@ -62,7 +62,7 @@ class LockFreeQueue {
 #endif
 ```
 
-## Deinitions
+## Definitions
 
 #### Push Function
 
